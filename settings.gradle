@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Maquette_i_way"
