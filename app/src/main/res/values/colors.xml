@@ -16,6 +16,11 @@
     <color name="rouge_claire">#627f0007</color>
 
 
+    <color name="light_font">#FBFBFB</color>
+    <color name="grey_font">#ff9e9e9e</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="text_shadow_white">#FFFFFF</color>
+
     <color name="back_rouge">#fcf2f2</color>
     <color name="back_vert">#f2fff5</color>
     <color name="back_rouge_">#fde7e7</color>
