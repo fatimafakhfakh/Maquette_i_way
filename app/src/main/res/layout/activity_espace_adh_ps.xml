@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/wp45992"
+    android:background="@drawable/back"
     tools:context=".Espace_Adh_psActivity">
 
     <RelativeLayout
@@ -50,7 +50,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:layout_marginLeft="10dp"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="70dp"
                 android:layout_marginRight="10dp"
                 android:clickable="true"
                 android:foreground="?android:attr/selectableItemBackground"
@@ -83,7 +83,7 @@
                         android:layout_centerInParent="true"
                         android:textSize="20dp"
                         android:textStyle="bold"
-                        android:textColor="@color/light_font"
+                        android:textColor="@color/yello_dark"
                         android:shadowColor="@color/text_shadow"
                         android:shadowDx="1"
                         android:shadowDy="1"
@@ -162,7 +162,7 @@
                         android:layout_centerInParent="true"
                         android:textSize="20dp"
                         android:textStyle="bold"
-                        android:textColor="@color/light_font"
+                        android:textColor="@color/yello_dark"
                         android:shadowColor="@color/text_shadow"
                         android:shadowDx="1"
                         android:shadowDy="1"

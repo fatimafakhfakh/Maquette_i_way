@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AcceuilAdherentActivity"
-    android:background="@drawable/back_echek_2">
+    android:background="@drawable/back_b">
 
 
     <LinearLayout
@@ -117,7 +117,7 @@
                 android:layout_margin="20dp"
                 card_view:cardCornerRadius="2dp"
                 card_view:contentPadding="10dp"
-                card_view:cardBackgroundColor="#51FCF9F9"
+                card_view:cardBackgroundColor="#CEFCF9F9"
                 card_view:cardElevation="2dp"
                 card_view:cardMaxElevation="2dp"
                 android:layout_weight="1">
@@ -172,7 +172,7 @@
                 android:layout_margin="20dp"
                 card_view:cardCornerRadius="2dp"
                 card_view:contentPadding="10dp"
-                card_view:cardBackgroundColor="#51FCF9F9"
+                card_view:cardBackgroundColor="#CEFCF9F9"
                 card_view:cardElevation="2dp"
                 card_view:cardMaxElevation="2dp"
                 android:layout_weight="1">
@@ -240,7 +240,7 @@
                 android:layout_margin="20dp"
                 card_view:cardCornerRadius="2dp"
                 card_view:contentPadding="10dp"
-                card_view:cardBackgroundColor="#51FCF9F9"
+                card_view:cardBackgroundColor="#CEFCF9F9"
                 card_view:cardElevation="2dp"
                 card_view:cardMaxElevation="2dp"
                 android:layout_weight="1">
